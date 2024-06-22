@@ -32,5 +32,5 @@ pay_raise = 10000
 
 # Create a variable named new_salary
 
-print(150000 + 10000)
+new_salary = (150000 + 10000)
 print(new_salary)
