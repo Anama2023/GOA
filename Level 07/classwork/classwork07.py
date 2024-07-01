@@ -18,6 +18,7 @@ flight_n = "BA0117"
 destination = "New York"
 distance = 1580
 
+
 # Storing the flight information
 
 print(flight_n)

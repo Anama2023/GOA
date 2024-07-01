@@ -19,4 +19,5 @@ favorite_countrys = "Georgia,Spain,France_and_Germany"
 
 
 
+
 print("Hello I am ",name,".","My surname is",surname,".","I am",age,"years old and I born in",date_of_birth,".I born in",country,",from rustavi.My favorite color is",favorite_color,".","My favorite car is",favorite_car,".""My favorite food is",favorite_food,".","My favorite sport is",favorite_sport,".","My favorite profesion is",favorite_profesion,".","My favorite animal is",favorite_animal,".","My favorite bird is",favorite_bird,".","My favorite number is",favorite_number,".","My favorite countrys is",favorite_countrys,".")

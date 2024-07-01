@@ -3,6 +3,7 @@
 # 3) ცვლადის მნიშვნელობა
 
 
+
 # (1)(2) (3)
 name = "Dato"
 last_name = "Janezashvili"

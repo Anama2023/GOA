@@ -1,5 +1,6 @@
 from turtle import *
 
+
 speed(30)
 #დავხატოთ კვადრატი
 width(4)

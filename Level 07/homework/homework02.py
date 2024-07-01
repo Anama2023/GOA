@@ -3,6 +3,7 @@ num2 = int(input("enter second number"))
 num3 = int(input("enter third number"))
 num4 = int(input("enter fourth number"))
 
+
 print(num1 + num2)
 print(num4 + num1)
 print(num3 + num2)
