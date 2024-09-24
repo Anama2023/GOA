@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200..700&display=swap');
+
+
+h1, p, button, h3, h6{
+
+    color: red;
+    font-family: "Oswald", sans-serif;
+    background-color: rgba(0, 0, 0, 0.703);
+    text-shadow: 10px 5px 6px rgba(255, 0, 0, 0.747);
+    text-align: center;
+
+}
